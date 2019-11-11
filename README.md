@@ -4,4 +4,4 @@ this is red
 
 this is blue
 
-int red=1
+int blue=1;
