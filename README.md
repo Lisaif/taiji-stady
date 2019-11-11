@@ -1,1 +1,3 @@
-# taiji-stady
+# taiji-study
+
+this is red
